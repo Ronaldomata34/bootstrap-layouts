@@ -1,0 +1,36 @@
+
+.border-class {
+	border: 1px solid black;
+}
+
+.row-custom {
+	margin:0;
+}
+
+.container-fluid-custom {
+	padding: 0;
+}
+.header-custom {
+	background-color: green;
+	height: 100px;
+}
+
+.grid-lft {
+	background-color: red;
+	min-height: 100vh;
+}
+
+.sub-header-custom {
+	background-color: purple !important;
+	height: 175px !important;
+}
+
+.section-custom {
+	background-color: orange;
+	height: 350px;
+}
+
+.articles-custom {
+	background-color: blue;
+	height: 200px;
+}
